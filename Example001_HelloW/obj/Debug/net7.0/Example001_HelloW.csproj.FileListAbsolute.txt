@@ -1,0 +1,14 @@
+C:\Users\Екатерина\Examples\Example001_HelloW\bin\Debug\net7.0\Example001_HelloW.exe
+C:\Users\Екатерина\Examples\Example001_HelloW\bin\Debug\net7.0\Example001_HelloW.deps.json
+C:\Users\Екатерина\Examples\Example001_HelloW\bin\Debug\net7.0\Example001_HelloW.runtimeconfig.json
+C:\Users\Екатерина\Examples\Example001_HelloW\bin\Debug\net7.0\Example001_HelloW.dll
+C:\Users\Екатерина\Examples\Example001_HelloW\bin\Debug\net7.0\Example001_HelloW.pdb
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.AssemblyInfo.cs
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.dll
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\refint\Example001_HelloW.dll
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.pdb
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\Example001_HelloW.genruntimeconfig.cache
+C:\Users\Екатерина\Examples\Example001_HelloW\obj\Debug\net7.0\ref\Example001_HelloW.dll
